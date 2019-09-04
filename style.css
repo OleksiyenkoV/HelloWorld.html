@@ -1,0 +1,67 @@
+body{
+	background-image: url(https://million-wallpapers.ru/wallpapers/5/15/492562955370431.jpg);
+	background-size: 100%;
+	text-shadow: white 1px 1px 0px
+}
+
+.first{
+	color:red;
+	text-align: center;
+	font-size: 30px;
+	border: 4px solid white
+}
+
+
+.second{
+	color:red;
+	text-align: left;
+	text-shadow: white 1px 1px 0px
+}
+.second1{
+	color:yellow;
+	text-align: left;
+	text-shadow: white 1px 1px 0px
+
+}.second2{
+	color:pink;
+	text-align: left;
+	text-shadow: white 1px 1px 0px
+}
+.second3{
+	color:green;
+	text-align: left;
+	text-shadow: white 1px 1px 0px
+}
+.second4{
+	color:purple;
+	text-align: left;
+	text-shadow: white 1px 1px 0px
+}
+
+#characteristics{
+	text-align: top;
+	color: yellow;
+	text-shadow: blue 1px 1px 0px
+}
+
+
+#info2{
+	text-align: right;
+	color: green;
+	text-shadow:white 1px 1px 0px;
+	font-size: 20px
+}
+
+#info3{
+	text-align: right;
+	color: green;
+	text-shadow:white 1px 1px 0px;
+	font-size: 20px
+}
+
+#info4{
+	text-align: right;
+	color: green;
+	text-shadow:white 1px 1px 0px;
+	font-size: 20px
+}
